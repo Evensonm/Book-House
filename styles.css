@@ -1,0 +1,77 @@
+
+body{
+    background-image: url("./images/Space.jpeg")
+}
+.div1{
+    text-align: center;
+    color:brown
+}
+
+h3{
+    font-size: 30px;
+    margin:5px;
+    
+}
+
+img{
+    height:15%;
+    width:15%;
+    margin: 10px;
+}
+
+
+.boxes{
+    display: flex;
+    flex-direction: column;
+    margin:10px auto;
+    max-width: 60%;
+    text-align: center;
+        
+    }
+
+.BraveNewWorld{
+    display: flex;
+    justify-content: space-between;
+    color: aliceblue;
+    outline: solid blue;
+    margin: 30px;
+    align-items: center;
+    
+}
+
+.Fahrenheit451{
+    display: flex;
+    justify-content: space-between;
+    color: aliceblue;
+    outline: solid blue;
+    margin:30px;
+    align-items: center;
+}
+
+.NineEightFour{
+    display: flex;
+    justify-content: space-between;
+    color: aliceblue;
+    outline:solid blue;
+    margin:30px;
+    align-items: center;
+}
+
+.AnimalFarm{
+    display: flex;
+    justify-content: space-between;
+    color: aliceblue;
+    outline: solid blue;
+    margin:30px;
+    align-items: center;
+}
+
+.TheGiver{
+    display: flex;
+    justify-content: space-between;
+    color: aliceblue;
+    outline:solid blue;
+    margin:30px;
+    align-items: center;
+   
+}
