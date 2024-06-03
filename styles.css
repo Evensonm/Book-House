@@ -75,3 +75,20 @@ img{
     align-items: center;
    
 }
+
+footer{
+    position: fixed;
+    bottom: 5px;
+}
+
+h2{
+    color: aliceblue;
+    text-align: center;
+}
+
+p{color:aliceblue;
+margin:10%}
+
+form{
+    color:aliceblue
+}
